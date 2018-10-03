@@ -6,3 +6,7 @@ img{
     height: 150px;
     width: auto;
 }
+
+.backt {
+    background-image: url(../images/wild-sea.png);
+}
