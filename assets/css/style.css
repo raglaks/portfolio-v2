@@ -10,3 +10,18 @@ img{
 .backt {
     background-image: url(../images/wild-sea.png);
 }
+
+a:link {
+    color:white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+a:active {
+    color:white;
+    text-decoration: none;
+}
