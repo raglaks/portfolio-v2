@@ -25,3 +25,11 @@ a:active {
     color:white;
     text-decoration: none;
 }
+
+.text-back {
+    background: #FFC054;
+}
+
+.alt {
+    background: #FFAC3B;
+}
