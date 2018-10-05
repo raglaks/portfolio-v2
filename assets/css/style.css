@@ -2,7 +2,7 @@
     background-image: url(../images/alchemy.gif);
 }
 
-img{
+.skills-img{
     height: 150px;
     width: auto;
 }
@@ -36,9 +36,9 @@ a:active {
 } */
 
 .card {
-    margin: 0 auto; /* Added */
-    float: none; /* Added */
-    margin-bottom: 10px; /* Added */
+    /* margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px;  */
     background: #E0FF4F;
     /* background: #FC9F5B; */
 }
