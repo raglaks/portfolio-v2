@@ -27,23 +27,18 @@ a:active {
 }
 
 .text-back {
-    /* background: #FFC054; */
     background: #91DEDE;
 }
 
-/* .alt {
-    background: #FFAC3B;
-} */
 
 .card {
-    /* margin: 0 auto; 
-    float: none; 
-    margin-bottom: 10px;  */
     background: #E0FF4F;
-    /* background: #FC9F5B; */
 }
 
 body {
     font-family: 'Oswald', sans-serif;
-    /* font-family: 'Fjalla One', sans-serif; */
+}
+
+.padding {
+    padding: 13px;
 }
