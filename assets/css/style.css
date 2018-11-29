@@ -7,6 +7,13 @@
     width: auto;
 }
 
+.mongo-img{
+
+    height: auto;
+    width: 400px;
+
+}
+
 .backt {
     background-image: url(../images/wild-sea.png);
 }
